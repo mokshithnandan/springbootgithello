@@ -8,8 +8,8 @@ public class Messagepasser implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("Hello Spring boot git");
-		System.out.println("Hello GIT");
+		int i=10;
+		System.out.println("Hello GIT"+i);
 
 	}
 
